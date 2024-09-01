@@ -19,4 +19,10 @@ Website for [simon-arc-lab](https://github.com/neoneye/simon-arc-lab).
 
 [ARC-AGI evaluation, 7 correct](model/351/arcagi_evaluation)
 
+## Model 364
+
+[ARC-AGI training, 20 correct](model/364/arcagi_training)
+
+[ARC-AGI evaluation, 7 correct](model/364/arcagi_evaluation)
+
 
