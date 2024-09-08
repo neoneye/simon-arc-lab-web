@@ -25,4 +25,12 @@ Website for [simon-arc-lab](https://github.com/neoneye/simon-arc-lab).
 
 [ARC-AGI evaluation, 7 correct](model/364/arcagi_evaluation)
 
+## Model 471
+
+This model solves 1 of the hidden tasks.
+
+[ARC-AGI training, 29 correct](model/471/arcagi_training)
+
+[ARC-AGI evaluation, 4 correct](model/471/arcagi_evaluation)
+
 
