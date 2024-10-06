@@ -33,4 +33,9 @@ This model solves 1 of the hidden tasks.
 
 [ARC-AGI evaluation, 4 correct](model/471/arcagi_evaluation)
 
+## Model 538
+
+[ARC-AGI training, 27 correct](model/538/arcagi_training)
+
+[ARC-AGI evaluation, 7 correct](model/538/arcagi_evaluation)
 
