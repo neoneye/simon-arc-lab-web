@@ -39,3 +39,10 @@ This model solves 1 of the hidden tasks.
 
 [ARC-AGI evaluation, 7 correct](model/538/arcagi_evaluation)
 
+## Model 625
+
+This model solves 1 of the hidden tasks.
+
+[ARC-AGI training, 28 correct](model/625/arcagi_training)
+
+[ARC-AGI evaluation, 8 correct](model/625/arcagi_evaluation)
