@@ -52,3 +52,11 @@ This model solves 1 of the hidden tasks.
 [ARC-AGI training, 20 correct](model/2024-oct-16-0105/arcagi_training)
 
 [ARC-AGI evaluation, 4 correct](model/2024-oct-16-0105/arcagi_evaluation)
+
+# 2024-oct-16-1953
+
+This model solves 1 of the hidden tasks.
+
+[ARC-AGI training, 38 correct](model/2024-oct-16-1953/arcagi_training)
+
+[ARC-AGI evaluation, 14 correct](model/2024-oct-16-1953/arcagi_evaluation)
