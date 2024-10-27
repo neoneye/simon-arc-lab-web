@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>arcagi_evaluation, 20241027_222228</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #333; color: #fff; }
+        .container { display: flex; flex-wrap: wrap; gap: 1px; }
+        .image-card { padding: 10px; text-align: center; width: 250px; }
+        .image-card img { max-width: 100%; height: auto; }
+        .correct { background-color: #999; color: #333; }
+        .incorrect { background-color: #111; }
+        .other { background-color: black; }
+        .button-group { margin-bottom: 20px; }
+        .button-group button { padding: 10px; margin-right: 10px; cursor: pointer; }
+        .button-group button.active { background-color: #555; color: #fff; } /* Active button style */
+    </style>
+</head>
+<body>
+    <h1>arcagi_evaluation, 20241027_222228</h1>
+
+    <div class="button-group">
+        <button id="correct-btn" onclick="filterImages('correct')">Correct 0</button>
+        <button id="incorrect-btn" onclick="filterImages('incorrect')">Incorrect 30</button>
+        <button id="other-btn" onclick="filterImages('other')">Other 0</button>
+    </div>
+
+    <div class="container">
+        <div class="image-card incorrect">
+    <img src="009d5c81_test0_step0_incorrect.png" alt="009d5c81_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="00dbd492_test0_step0_incorrect.png" alt="00dbd492_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="03560426_test0_step0_incorrect.png" alt="03560426_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="05a7bcf2_test0_step0_incorrect.png" alt="05a7bcf2_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="05a7bcf2_v2_test0_step0_incorrect.png" alt="05a7bcf2_v2_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="0607ce86_test0_step0_incorrect.png" alt="0607ce86_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="070dd51e_test0_step0_incorrect.png" alt="070dd51e_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="08573cc6_test0_step0_incorrect.png" alt="08573cc6_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="09c534e7_test0_step0_incorrect.png" alt="09c534e7_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="0a2355a6_test0_step0_incorrect.png" alt="0a2355a6_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="0b17323b_test0_step0_incorrect.png" alt="0b17323b_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="0becf7df_test0_step0_incorrect.png" alt="0becf7df_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="0d87d2a6_test0_step0_incorrect.png" alt="0d87d2a6_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="0e671a1a_test0_step0_incorrect.png" alt="0e671a1a_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="0f63c0b9_test0_step0_incorrect.png" alt="0f63c0b9_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="103eff5b_test0_step0_incorrect.png" alt="103eff5b_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="11e1fe23_test0_step0_incorrect.png" alt="11e1fe23_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="12422b43_test0_step0_incorrect.png" alt="12422b43_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="12eac192_test0_step0_incorrect.png" alt="12eac192_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="13713586_test0_step0_incorrect.png" alt="13713586_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="137f0df0_test0_step0_incorrect.png" alt="137f0df0_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="140c817e_test0_step0_incorrect.png" alt="140c817e_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="14754a24_test0_step0_incorrect.png" alt="14754a24_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="15113be4_test0_step0_incorrect.png" alt="15113be4_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="15663ba9_test0_step0_incorrect.png" alt="15663ba9_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="16b78196_test0_step0_incorrect.png" alt="16b78196_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="17b80ad2_test0_step0_incorrect.png" alt="17b80ad2_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="17cae0c1_test0_step0_incorrect.png" alt="17cae0c1_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="18419cfa_test0_step0_incorrect.png" alt="18419cfa_test0_step0_incorrect.png">
+</div>
+<div class="image-card incorrect">
+    <img src="184a9768_test0_step0_incorrect.png" alt="184a9768_test0_step0_incorrect.png">
+</div>
+
+    </div>
+
+    <script>
+        let currentFilter = null;
+
+        function filterImages(type) {
+            const allImages = document.querySelectorAll('.image-card');
+            const selectedImages = document.querySelectorAll(`.${type}`);
+            const correctBtn = document.getElementById('correct-btn');
+            const incorrectBtn = document.getElementById('incorrect-btn');
+            const otherBtn = document.getElementById('other-btn');
+
+            if (currentFilter === type) {
+                // If the filter is already active, reset to show all images
+                allImages.forEach(image => {
+                    image.style.display = 'block';
+                });
+                currentFilter = null;
+                correctBtn.classList.remove('active');
+                incorrectBtn.classList.remove('active');
+                otherBtn.classList.remove('active');
+            } else {
+                // Hide all images, then show only the selected type
+                allImages.forEach(image => {
+                    image.style.display = 'none';
+                });
+                selectedImages.forEach(image => {
+                    image.style.display = 'block';
+                });
+                currentFilter = type;
+
+                // Update button styles
+                correctBtn.classList.remove('active');
+                incorrectBtn.classList.remove('active');
+                otherBtn.classList.remove('active');
+                if (type === 'correct') {
+                    correctBtn.classList.add('active');
+                } else if (type === 'incorrect') {
+                    incorrectBtn.classList.add('active');
+                } else if (type === 'other') {
+                    otherBtn.classList.add('active');
+                }
+            }
+        }
+    </script>
+</body>
+</html>

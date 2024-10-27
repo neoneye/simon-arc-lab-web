@@ -68,3 +68,12 @@ This model solves 1 of the hidden tasks.
 [ARC-AGI training, 41 correct](model/2024-oct-17-1318/arcagi_training)
 
 [ARC-AGI evaluation, 16 correct](model/2024-oct-17-1318/arcagi_evaluation)
+
+# 2024-oct-27-2234 - color prediction
+
+TaskColorProfile heuristic about what the output colors may be.
+
+[ARC-AGI training](model/2024-oct-27-2234/arcagi_training)
+
+[ARC-AGI evaluation](model/2024-oct-27-2234/arcagi_evaluation)
+
