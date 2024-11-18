@@ -77,3 +77,9 @@ TaskColorProfile heuristic about what the output colors may be.
 
 [ARC-AGI evaluation](model/2024-oct-27-2234/arcagi_evaluation)
 
+# 2024-nov-18 - random sampling
+
+[ARC-AGI training](model/2024-nov-18/arcagi_training)
+
+[ARC-AGI evaluation](model/2024-nov-18/arcagi_evaluation)
+
