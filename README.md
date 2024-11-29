@@ -77,9 +77,18 @@ TaskColorProfile heuristic about what the output colors may be.
 
 [ARC-AGI evaluation](model/2024-oct-27-2234/arcagi_evaluation)
 
-# 2024-nov-18 - random sampling
+# 2024-nov-18 - random sampling v1
+
+[source code](https://github.com/neoneye/simon-arc-lab/blob/main/simon_arc_model_run/run_random_sampling_colors.py)
 
 [ARC-AGI training](model/2024-nov-18/arcagi_training)
 
 [ARC-AGI evaluation](model/2024-nov-18/arcagi_evaluation)
 
+# 2024-nov-29 - random sampling v8
+
+[source code](https://github.com/neoneye/simon-arc-lab/blob/main/simon_arc_model_run/run_random_sampling_colors_v8.py)
+
+[ARC-AGI training](model/2024-nov-29/arcagi_training)
+
+[ARC-AGI evaluation](model/2024-nov-29/arcagi_evaluation)
