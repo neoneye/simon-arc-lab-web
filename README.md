@@ -100,3 +100,12 @@ Often the score is 100 despite the puzzle not being solved correctly.
 [source code](https://github.com/neoneye/simon-arc-lab/blob/main/simon_arc_model_run/measure_bad_predictions.py)
 
 [ARC-AGI training](model/2024-dec-15/arcagi_training)
+
+# 2024-dec-20 - measuring bad predictions
+
+Often the score is 100 despite the puzzle not being solved correctly.
+
+[source code](https://github.com/neoneye/simon-arc-lab/blob/main/simon_arc_model_run/measure_bad_predictions.py)
+
+[ARC-AGI training](model/2024-dec-20/arcagi_training)
+
