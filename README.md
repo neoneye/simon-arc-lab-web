@@ -109,3 +109,11 @@ Often the score is 100 despite the puzzle not being solved correctly.
 
 [ARC-AGI training](model/2024-dec-22/arcagi_training)
 
+# 2024-dec-29 - decision tree
+
+Untested on the hidden ARC-AGI-1 dataset.
+
+[ARC-AGI training, 39 correct](model/2024-dec-29/arcagi_training)
+
+[ARC-AGI evaluation, 18 correct](model/2024-dec-29/arcagi_evaluation)
+
